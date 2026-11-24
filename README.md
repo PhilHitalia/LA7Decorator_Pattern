@@ -1,0 +1,1 @@
+# LA7Decorator_Pattern
